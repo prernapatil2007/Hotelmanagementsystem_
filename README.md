@@ -18,7 +18,7 @@ Install the required tools for your project, such as Node.js and npm, if applica
 
 Installation
 
-1. Clone the repository: git clone http://github.com/prernapatil2007/hotel.git
+1. Clone the repository: https://github.com/prernapatil2007/Hotelmanagementsystem_
 2. Open the project folder: cd Hotelmanagementsystem
 3. Install dependencies if your project uses npm: npm install
 4. start the application using the command configured in your package.json, for example: npm run dev
